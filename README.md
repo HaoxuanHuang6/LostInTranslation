@@ -1,4 +1,4 @@
-# Lab 3: Team Task: Country Translation Program Test V2
+# Lab 3: Team Task
 
 ---
 
